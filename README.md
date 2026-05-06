@@ -1,5 +1,10 @@
 # Movie Recommendation System
 
+> **Note:** This project was developed in collaboration with 
+> [@razafimanantena23](https://github.com/razafimanantena23). 
+> My contributions cover the TF-IDF search engine, the collaborative 
+> filtering recommendation system, and the Tkinter GUI.
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
